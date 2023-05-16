@@ -1,1 +1,1 @@
-# CodeWars
+<!--CODE WARS -->
